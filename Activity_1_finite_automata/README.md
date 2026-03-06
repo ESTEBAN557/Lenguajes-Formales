@@ -12,6 +12,12 @@ The program was developed using the following environment:
 
 ---
 
+## 👥 Authors
+* **Esteban Alvarez Garcia**
+* **Alejandro Martinez Vivanco**
+
+---
+
 ## Project Description
 
 This project implements a **Deterministic Finite Automaton (DFA)** that evaluates whether a string composed of the alphabet **{a, b}** belongs to the language defined by the automaton.
@@ -141,4 +147,5 @@ The program contains three main components:
 
 
 This structure allows the automaton simulation to remain clear, modular, and easy to understand.
+
 
