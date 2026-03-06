@@ -29,6 +29,13 @@ The user can test multiple strings without restarting the program.
 ---
 
 
+## Video Explanation
+
+You can watch the explanation and demonstration of the program in the following video:
+https://youtu.be/7AA2KGD8JRU
+
+---
+
 ## How to Compile and Run the Program
 
 Follow these steps to compile and execute the program.
@@ -147,5 +154,6 @@ The program contains three main components:
 
 
 This structure allows the automaton simulation to remain clear, modular, and easy to understand.
+
 
 
