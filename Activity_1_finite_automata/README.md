@@ -74,7 +74,7 @@ RESULT: The string IS accepted.
  ```
 
 To terminate the program, type:
-
+```bash
 salir
  ```
 
@@ -139,5 +139,6 @@ The program contains three main components:
 1. **State definition** using an `enum`.
 2. **Language verification function** (`perteneceAlLenguaje`).
 3. **Main loop** that allows continuous input from the user.
+
 
 This structure allows the automaton simulation to remain clear, modular, and easy to understand.
