@@ -83,7 +83,6 @@ The program will evaluate the string and indicate whether it is **accepted** or 
 ---
 
 
----
 
 ## Algorithm Explanation
 
@@ -142,3 +141,4 @@ The program contains three main components:
 
 
 This structure allows the automaton simulation to remain clear, modular, and easy to understand.
+
